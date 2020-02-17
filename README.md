@@ -1,1 +1,1 @@
-# https://github.com/LetsukAM/rsschool-cv/pull/1/files
+#https://github.com/LetsukAM/rsschool-cv/blob/gh-pages/cv.md
